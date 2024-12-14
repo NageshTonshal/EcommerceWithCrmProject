@@ -42,3 +42,6 @@ Used Oracle for efficient data management.
 Designed a responsive UI for seamless user experience.
 
 Enabled advanced reporting for sales and customer insights.
+
+![Screenshot (24)](https://github.com/user-attachments/assets/bab0e5aa-12a9-43dd-a3d5-111863046edd)
+
