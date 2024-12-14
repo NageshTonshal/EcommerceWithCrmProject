@@ -45,3 +45,12 @@ Enabled advanced reporting for sales and customer insights.
 
 ![Screenshot (24)](https://github.com/user-attachments/assets/bab0e5aa-12a9-43dd-a3d5-111863046edd)
 
+![Screenshot (28)](https://github.com/user-attachments/assets/801c2e3e-26c2-4309-9601-ead4f8437b44)
+
+![Screenshot (27)](https://github.com/user-attachments/assets/9685f7dc-6cec-477c-b624-40710e24b49f)
+
+![Screenshot (22)](https://github.com/user-attachments/assets/f93f9dc5-0909-4036-9778-e9639c071762)
+
+![Screenshot (23)](https://github.com/user-attachments/assets/c581a258-9bd0-4eda-a2ff-ac8d28ebc082)
+
+![Screenshot (28)](https://github.com/user-attachments/assets/1ee33010-7ab1-417b-98d0-920b32f20836)
